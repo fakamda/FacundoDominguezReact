@@ -1,0 +1,28 @@
+.btn-css {
+    background: inherit;
+    border: none;
+    outline: none;
+    animation: normal;
+    position: relative;
+    cursor: pointer;
+}
+
+.btn-css::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: white;
+    left: 0;
+    bottom: 0;
+}
+
+.btn-css::after{
+    transform: scale(0, 1);
+    transform-origin: 0% 100%;
+    transition: transform 0.3s ease;
+}
+
+.btn-css:hover::after{
+    transform: scale(1,1);
+}

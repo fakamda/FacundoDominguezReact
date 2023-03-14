@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FacundoDominguezReact/static/css/main.14a75e7f.css",
+    "main.js": "/FacundoDominguezReact/static/js/main.dfeebe56.js",
+    "static/js/787.f7c6797f.chunk.js": "/FacundoDominguezReact/static/js/787.f7c6797f.chunk.js",
+    "static/media/logo.svg": "/FacundoDominguezReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FacundoDominguezReact/index.html",
+    "main.14a75e7f.css.map": "/FacundoDominguezReact/static/css/main.14a75e7f.css.map",
+    "main.dfeebe56.js.map": "/FacundoDominguezReact/static/js/main.dfeebe56.js.map",
+    "787.f7c6797f.chunk.js.map": "/FacundoDominguezReact/static/js/787.f7c6797f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14a75e7f.css",
+    "static/js/main.dfeebe56.js"
+  ]
+}
